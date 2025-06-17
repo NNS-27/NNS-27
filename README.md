@@ -1,14 +1,12 @@
 # About me
----
 - College student
+- Currently studying **Game design** and **3d modelling** <br>
 
-- Currently studying **Game design** and **3d modelling**
----
 - languages and tools
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java)](https://skillicons.dev) <br>
 [![Tools](https://skillicons.dev/icons?i=blender,ps,pr)](https://skillicons.dev)
 <!--<img align='right' src="https://wakatime.com/badge/user/7e9ee107-07c5-4dcc-b6ce-a350652e95d5.svg?style=for-the-badge">-->
-
+--
 ## Github Statistics
 <div align=center>
 
